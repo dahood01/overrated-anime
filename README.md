@@ -23,7 +23,7 @@
                         One Punch Man(opm)<h2>
                 </li>
                 </ul>
-                <img src="C:\Users\planet\Downloads\opm.jpg">
+                <img src="opm.jpg">
                 <h2>i might've done a crime</h2>
 
                 <ul>
@@ -33,7 +33,7 @@
                          </h2>
                     </li>
                 </ul>
-                <img src="C:\Users\planet\Downloads\dbz.jpg">
+                <img src="dbz.jpg">
                 <h2>
                     pls dont sue me 
                 </h2>
@@ -44,7 +44,7 @@
                        </h2>
                 </li>
             </ul>
-            <img src="C:\Users\planet\Downloads\Suzume (2022).jpg">
+            <img src="Suzume (2022).jpg">
             <h2>
                 i mean some of you can agree
             </h2>
@@ -55,7 +55,7 @@
                     </h2>
                 </li>
             </ul>
-            <img src="C:\Users\planet\Downloads\Kimetsu no Yaiba.jpg">
+            <img src="Kimetsu no Yaiba.jpg">
         
                 </body>
                 </html>
